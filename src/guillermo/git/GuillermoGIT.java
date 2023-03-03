@@ -7,6 +7,7 @@ public class GuillermoGIT {
     // Guillermo Torregrosa López
     
         System.out.println("Hola, soy Guillermo Torregrosa");
+        System.out.println("Tengo 29 años");
         
     }
     
